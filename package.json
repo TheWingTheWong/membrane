@@ -1,0 +1,14 @@
+{
+  "name": "membrane",
+  "version": "1.0.0",
+  "description": "Hear the shape of a drum: draw any drumhead and strike it. Sound synthesised from its real vibration modes, computed live in the browser.",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "start": "node serve.mjs 8080"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT"
+}
